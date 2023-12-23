@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pranay236
 - 👀 I’m interested in entreprenureship
 - 🌱 I’m currently learning Artificial Intelligence, Data Science & Machine Learning
--  I'm working on Natural Language processing and Large Language Models on upwork as a freelancer
-- 💞️ I’m looking to collaborate on ...
+- 🤖 I'm working on Natural Language processing and Large Language Models on upwork as a freelancer
+- 🤝 I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Twitter: https://twitter.com/Pranay_Navoth 
 - LinkedIn : https://www.linkedin.com/in/pranaynavoth/
